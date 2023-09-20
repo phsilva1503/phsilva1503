@@ -16,8 +16,13 @@ Trabalho principalemnte com :
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/pedrohssilva/))
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/](https://twitter.com/HspedroSilva)https://twitter.com/HspedroSilva)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phsilva1503&show_icons=true&theme=radical)
+
+!
 
 
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=phsilva1503&theme=tokyonight&" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phsilva1503&layout=compact&&theme=tokyonight&langs_count=5&card_width=320" />
+</a>
