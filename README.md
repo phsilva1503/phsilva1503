@@ -1,8 +1,9 @@
 
-Olá! Me chamo Pedro Santos🚀 
+#Olá! Me chamo Pedro Santos🚀 
 
-Programação me fez parar de odiar matematica 😁
-Trabalho principalemnte com :
+##Programação me fez parar de odiar matematica 😁
+
+###Trabalho principalemnte com :
 
 <div style="display: inline_block"></br>
 <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
